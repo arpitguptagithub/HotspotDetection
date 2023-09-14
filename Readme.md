@@ -1,0 +1,1 @@
+There are three  models here which used predefined libraries, Sensing hospot, Model 2 and Model 3. This is open source. The Custome model uses YOLOv5. This model is pretrained and available but is in private access due to L and T company policy. 
